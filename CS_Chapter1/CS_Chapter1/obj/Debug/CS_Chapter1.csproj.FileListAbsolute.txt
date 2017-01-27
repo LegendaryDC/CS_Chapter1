@@ -1,1 +1,2 @@
 C:\Users\eahscs\Desktop\CS_Chapter1\CS_Chapter1\CS_Chapter1\bin\Debug\CS_Chapter1.exe.config
+C:\Users\eahscs\Documents\GitHub\CS_Chapter1\CS_Chapter1\CS_Chapter1\bin\Debug\CS_Chapter1.exe.config

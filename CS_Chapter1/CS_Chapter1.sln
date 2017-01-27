@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Initials", "Initials\Initia
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BurmaShave", "BurmaShave\BurmaShave.csproj", "{8476F972-DF50-4F0D-9493-C92A62142A85}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWorld\HelloWorld.csproj", "{45A1DF46-FE31-4C70-90BB-CC23AF85460D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{8476F972-DF50-4F0D-9493-C92A62142A85}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8476F972-DF50-4F0D-9493-C92A62142A85}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8476F972-DF50-4F0D-9493-C92A62142A85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45A1DF46-FE31-4C70-90BB-CC23AF85460D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45A1DF46-FE31-4C70-90BB-CC23AF85460D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45A1DF46-FE31-4C70-90BB-CC23AF85460D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45A1DF46-FE31-4C70-90BB-CC23AF85460D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
