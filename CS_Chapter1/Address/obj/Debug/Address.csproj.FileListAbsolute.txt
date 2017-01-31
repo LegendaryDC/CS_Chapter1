@@ -1,0 +1,5 @@
+C:\Users\eahscs\Documents\CS_Chapter1\CS_Chapter1\Address\bin\Debug\Address.exe.config
+C:\Users\eahscs\Documents\CS_Chapter1\CS_Chapter1\Address\bin\Debug\Address.exe
+C:\Users\eahscs\Documents\CS_Chapter1\CS_Chapter1\Address\bin\Debug\Address.pdb
+C:\Users\eahscs\Documents\CS_Chapter1\CS_Chapter1\Address\obj\Debug\Address.exe
+C:\Users\eahscs\Documents\CS_Chapter1\CS_Chapter1\Address\obj\Debug\Address.pdb

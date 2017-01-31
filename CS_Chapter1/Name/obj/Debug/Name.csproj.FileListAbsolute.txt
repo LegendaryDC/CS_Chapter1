@@ -7,3 +7,9 @@ C:\Users\eahscs\Desktop\CS_Chapter1\CS_Chapter1\Name\obj\Debug\Name.pdb
 C:\Users\eahscs\Documents\GitHub\CS_Chapter1\CS_Chapter1\Name\bin\Debug\Name.exe.config
 C:\Users\eahscs\Documents\GitHub\CS_Chapter1\CS_Chapter1\Name\obj\Debug\Name.exe
 C:\Users\eahscs\Documents\GitHub\CS_Chapter1\CS_Chapter1\Name\obj\Debug\Name.pdb
+C:\Users\eahscs\Documents\CS_Chapter1\CS_Chapter1\Name\bin\Debug\Name.exe.config
+C:\Users\eahscs\Documents\CS_Chapter1\CS_Chapter1\Name\obj\Debug\Name.exe
+C:\Users\eahscs\Documents\CS_Chapter1\CS_Chapter1\Name\obj\Debug\Name.pdb
+C:\Users\eahscs\Documents\CS_Chapter1\CS_Chapter1\Name\bin\Debug\Name.exe
+C:\Users\eahscs\Documents\CS_Chapter1\CS_Chapter1\Name\bin\Debug\Name.pdb
+C:\Users\eahscs\Documents\CS_Chapter1\CS_Chapter1\Name\obj\Debug\Name.csprojResolveAssemblyReference.cache
